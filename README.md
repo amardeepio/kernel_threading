@@ -6,8 +6,10 @@ Kernel thread creation process
 
 run the following commands in the terminal : 
 
-make
+```
+make 
 insmod done.ko
+```
 
 
 after that:
